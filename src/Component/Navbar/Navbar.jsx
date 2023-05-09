@@ -5,7 +5,7 @@ import { SiGooglemaps } from 'react-icons/si';
 const Navbar = () => {
   return (
     <div className='bg-amber-400'>
-        <div className="navbar w-8/12 mx-auto pt-10">
+        <div className="navbar w-8/12 mx-auto pt-8">
   <div className="navbar-start">
     
     <Link className=" normal-case text-3xl text-emerald-600 font-bold">Glovo </Link><SiGooglemaps className="text-emerald-600 text-2xl"/>
