@@ -3,7 +3,7 @@ import { SiGooglemaps } from 'react-icons/si';
 
 const Footer = () => {
   return (
-    <div className='bg-gray-800 text-white'>
+    <div className='bg-gray-800 text-white '>
         <footer className="footer p-10 w-8/12 mx-auto ">
   <div>
    <div className='flex'>
