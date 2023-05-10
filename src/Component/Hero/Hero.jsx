@@ -26,7 +26,7 @@ const Hero = () => {
           </div>
         </div>
       </div>
-      <div className="mt-[-100px]">
+      <div className="lg:mt-[-100px]">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
           <path
             fill="#FFBF00"

@@ -1,0 +1,52 @@
+{
+    "restaurants": [
+        {
+            "_id": 1,
+            "img": "https://res.cloudinary.com/glovoapp/q_30,f_auto,c_fill,dpr_1.0,h_128,w_128,b_transparent/Stores/txgzy5f119afvmq7znvp",
+            "title": "McDonald's"
+
+        },
+        {
+            "_id": 2,
+            "img": "https://res.cloudinary.com/glovoapp/q_30,f_auto,c_fill,dpr_1.0,h_128,w_128,b_transparent/Stores/u56iguujsgxttvzxpthn",
+            "title": "KFC"
+
+        },
+        {
+            "_id": 3,
+            "img": "https://res.cloudinary.com/glovoapp/q_30,f_auto,c_fill,dpr_1.0,h_128,w_128,b_transparent/Stores/akivf28yymtqggy5cxzl",
+            "title": "BurgerKing"
+
+        },
+        {
+            "_id": 4,
+            "img": "https://res.cloudinary.com/glovoapp/q_30,f_auto,c_fill,dpr_1.0,h_128,w_128,b_transparent/Stores/hvpjrukzrzcx2fr7aivr",
+            "title": "Carrefour"
+
+        },
+        {
+            "_id": 5,
+            "img": "https://res.cloudinary.com/glovoapp/q_30,f_auto,c_fill,dpr_1.0,h_128,w_128,b_transparent/Stores/wbvnm1neh9bxeagj990c",
+            "title": "PizzaHut"
+
+        },
+        {
+            "_id": 6,
+            "img": "https://res.cloudinary.com/glovoapp/q_30,f_auto,c_fill,dpr_1.0,h_128,w_128,b_transparent/Stores/igq1ghjtalh1hzzu3wx1",
+            "title": "PapaJohn's"
+
+        },
+        {
+            "_id": 7,
+            "img": "https://res.cloudinary.com/glovoapp/q_30,f_auto,c_fill,dpr_1.0,h_128,w_128,b_transparent/Stores/vqhe8yxwvrbjq7dgjndb",
+            "title": "Subway"
+
+        },
+        {
+            "_id": 8,
+            "img": "https://res.cloudinary.com/glovoapp/q_30,f_auto,c_fill,dpr_1.0,h_128,w_128,b_transparent/Stores/zx7udzwuopreaoqarfhj",
+            "title": "TacoBell"
+
+        }
+    ]
+}

@@ -3,6 +3,7 @@ import Main from "../Layout/LayOut";
 import Error from "../Component/ErrorPage/ErrorPage";
 import LayOut from "../Layout/LayOut";
 import Hero from "../Component/Hero/Hero";
+import Home from "../Component/Home/Home";
 
 const router = createBrowserRouter([
     {
@@ -12,7 +13,7 @@ const router = createBrowserRouter([
       children: [
         {
           path: '/',
-          element: <Hero/>
+          element: <Home/>
         }
       ]
     },
