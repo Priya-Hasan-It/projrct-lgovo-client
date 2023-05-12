@@ -66,6 +66,9 @@ const Delivered = () => {
           </div>
         </div>
       </div>
+      <div className="text-center mt-8">
+      <button className="btn bg-emerald-600 hover:bg-emerald-700 border-none rounded-3xl font-bold px-12 ">Explore stores around you</button>
+      </div>
     </div>
   );
 };

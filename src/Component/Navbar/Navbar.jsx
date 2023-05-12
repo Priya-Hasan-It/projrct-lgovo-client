@@ -12,7 +12,7 @@ const Navbar = () => {
   </div>
   
   <div className="navbar-end">
-    <a className="btn bg-emerald-600 hover:bg-emerald-700 border-none rounded-3xl font-bold px-6 ">Get started</a>
+    <button className="btn bg-emerald-600 hover:bg-emerald-700 border-none rounded-3xl font-bold px-6 ">Get started</button>
   </div>
 </div>
     </div>
