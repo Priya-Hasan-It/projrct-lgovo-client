@@ -5,7 +5,7 @@ import groceries from "../../assets/groceries.svg";
 
 const Delivered = () => {
   return (
-    <div className="my-12">
+    <div className="">
       <h1 className="text-center font-bold text-5xl mb-16">
         Anything delivered
       </h1>

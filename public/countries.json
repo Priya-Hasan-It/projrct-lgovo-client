@@ -1,0 +1,104 @@
+{
+    "countries": [
+        {
+            "_id": 1,
+            "name": "Spain"
+        },
+        {
+            "_id": 2,
+            "name": "Italy"
+        },
+        {
+            "_id": 3,
+            "name": "Ukraine"
+        },
+        {
+            "_id": 4,
+            "name": "Romania"
+        },
+        {
+            "_id": 5,
+            "name": "Georgia"
+        },
+        {
+            "_id": 6,
+            "name": "Portugal"
+        },
+        {
+            "_id": 7,
+            "name": "Poland"
+        },
+        {
+            "_id": 8,
+            "name": "Morocco"
+        },
+        {
+            "_id": 9,
+            "name": "Kazakhstan"
+        },
+        {
+            "_id": 10,
+            "name": "Croatia"
+        },
+        {
+            "_id": 11,
+            "name": "Kenya"
+        },
+        {
+            "_id": 12,
+            "name": "Cote D'lvoire"
+        },
+        {
+            "_id": 13,
+            "name": "Serbia"
+        },
+        {
+            "_id": 14,
+            "name": "Moldova"
+        },
+        {
+            "_id": 15,
+            "name": "Uganda"
+        },
+        {
+            "_id": 16,
+            "name": "Kyrgyzstan"
+        },
+        {
+            "_id": 17,
+            "name": "Bosnia and Herzegovina"
+        },
+        {
+            "_id": 18,
+            "name": "Bulgaria"
+        },
+        {
+            "_id": 19,
+            "name": "Ghana"
+        },
+        {
+            "_id": 20,
+            "name": "Montenegro"
+        },
+        {
+            "_id": 21,
+            "name": "Slovenia"
+        },
+        {
+            "_id": 22,
+            "name": "Nigeria"
+        },
+        {
+            "_id": 23,
+            "name": "Armenia"
+        },
+        {
+            "_id": 24,
+            "name": "Andorra"
+        },
+        {
+            "_id": 25,
+            "name": "Tunisia"
+        }
+    ]
+}

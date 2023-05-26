@@ -10,7 +10,6 @@ const Restaurants = () => {
       .then((res) => res.json())
       .then((data) => {
         setResturants(data.restaurants);
-        console.log(data);
       });
   });
 
